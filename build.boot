@@ -16,15 +16,13 @@
                   [weasel                    "0.7.0"      :scope "test"]
                   [org.clojure/tools.nrepl   "0.2.12" :scope "test"]
 
-                  [com.taoensso/carmine      "2.16.0"] ;.16.0
-                  [buddy/buddy-hashers       "1.2.0"]
-                  [abengoa/clj-stripe        "1.0.4"]
-                  [com.draines/postal "2.0.2"]
-                  [clj-http "3.6.1"]
-                  ;[stripe-tester-clj "0.1.0"]
-                  [org.clojure/data.json "0.2.6"]
-                  [cheshire "5.6.3"]
-                  [clj-time "0.14.0"]
+			[com.taoensso/encore              "2.90.1"]
+   			[com.taoensso/timbre              "4.8.0"]
+   			[com.taoensso/nippy               "2.13.0"]
+   			[org.apache.commons/commons-pool2 "2.4.2"]
+   			[commons-codec/commons-codec      "1.10"]
+                     [com.taoensso/carmine      "2.16.0"] ;.16.0
+
                   
                   
                   ]
